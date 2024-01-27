@@ -1,4 +1,4 @@
-"skeleton-schema"
+"impulseskeleton"
 {
 	"base"		"impulse"
 	"title"		"impulse: Skeleton Schema"
